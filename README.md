@@ -9,7 +9,7 @@ This News App is bansed on the **MERN Techonology**
   
   Then extract the *SmartWinnr News app* **ZIP file** to the desired folder.  
   
-  Open commandprompt from the *SmartWinnr News app* directory.  
+  Open Command Prompt from the *SmartWinnr News app* directory.  
   
   Then Download the required dependencies by using the command   { **npm i** }.  
   
