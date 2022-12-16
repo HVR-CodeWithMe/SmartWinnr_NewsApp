@@ -1,7 +1,7 @@
 # SmartWinnr_NewsApp  
-SmartWinnr News app will provide a news to the users.  
+SmartWinnr News app will provide news to the users periodically.  
 
-This News App is bansed on the **MERN Techonology**
+This News App is based on **MERN Technology**
 
 **SETUP :**   
 
