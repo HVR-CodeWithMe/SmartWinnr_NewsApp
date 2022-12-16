@@ -26,5 +26,5 @@ Now you can see the live news.
 Using the above api the news app will fetch the news and display it to the users.  
 The News will be updated at some time intervals.  
   
-SCREENSHOTS folder is provided with the working screenshorts of SmartWinnr News app for the output reference.  
+SCREENSHOTS folder is provided with the working screenshots of SmartWinnr News app for the output reference.  
 
